@@ -6,7 +6,7 @@ categories: news
 # thumbnail: 
 permalink: /posts/sponsorship/
 ---
-私たちDojoCon Japan 2024実行委員会は、2024年9月15日杜の街グレースにて、「DojoCon Japan 2024」を開催いたします。
+私たちDojoCon Japan 実行委員会は、2024年9月15日杜の街グレースにて、「DojoCon Japan 2024」を開催いたします。
 
 DojoCon（CoderDojo Conference）とは、CoderDojo発祥の地、アイルランドにおいて、CoderDojo Foundation主催で年1回のペースで開催されていた主にCoderDojoを支える大人たちを対象にしたカンファレンスです。
 「DojoCon Japan」はこの日本版という位置づけで2016年に始まり、今回が9回目の開催となります。

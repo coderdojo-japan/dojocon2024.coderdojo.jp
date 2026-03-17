@@ -299,7 +299,7 @@ layout: default
     <div class="container">
         <div class="text-center">
           <p class="my-0"><strong>Organized by</strong></p>
-          <h2 class="my-1">DojoCon Japan {{ site.year }} 実行委員会<br><a href="https://coderdojo.jp/" target="_blank" rel="noopener">一般社団法人 CoderDojo Japan</a></h2>
+          <h2 class="my-1">DojoCon Japan 実行委員会<br><a href="https://coderdojo.jp/" target="_blank" rel="noopener">一般社団法人 CoderDojo Japan</a></h2>
         </div>
         <div class="text-center">
             <img src="/img/momotaro/inu.svg" style="width: 80px"/>
